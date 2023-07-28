@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rhmza4@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1ANg7E5pXT2h6mkZitU-ppVyTAdsFxDNu/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ANg7E5pXT2h6mkZitU-ppVyTAdsFxDNu/view?usp=sharing" target="blank">my resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
