@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript, Redux, React JS, Laravel and Tailwind CSS**
 
-- 💬 Ask me about **React and Laravel**
+- 💬 Ask me about **Vue.js, React.js and Laravel**
 
 - 📫 How to reach me **rhmza4@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Hongy7eJxVnRCZMLt8do3Gb4KWYqG7bh/view?usp=sharing" target="blank">my resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1XCol1wo3Kgn32PgAXTcqFhsORJsympUp/view?usp=sharing" target="_blank">my resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
