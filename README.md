@@ -7,7 +7,7 @@ Full Stack Web Developer
 I've been learning to code for 3 years. I started with Laravel, but have really found a passion for full stack development...
 
 * 🌍  I'm based in Islamabad, Pakistan
-* 🖥️  See my portfolio at [MyPortfolio](http://www.upwork.com/freelancers/raohamzamukhtar)
+* 🖥️  See my portfolio at [MyPortfolio](http://raohamzamukhtar.vercel.app)
 * ✉️  You can contact me at [hamzamukhtar.rao@gmail.com](mailto:hamzamukhtar.rao@gmail.com)
 * 🧠  I'm learning Generative AI
 * 🤝  I'm open to collaborating on interesting projects
